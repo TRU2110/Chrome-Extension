@@ -4,10 +4,10 @@
 This Chrome extension, named "Dad Jokess", displays a new joke fetched from the Dad Joke API each time the extension icon is clicked. It leverages HTML for the structure, and JavaScript to fetch the joke data. The joke is displayed in a popup window when the extension is activated.<br>
 
 ✨**Project Files**<br>
-_manifest.json:_ Configuration file that describes your extension's properties and permissions.<br>
-_popup.html:_ HTML file that defines the popup's user interface.<br>
-_script.js:_ JavaScript file to fetch and display the joke from the Dad Joke API.<br>
-_logo.png:_ Icon file for your extension.<br>
+**_manifest.json:_** Configuration file that describes your extension's properties and permissions.<br>
+**_popup.html:_** HTML file that defines the popup's user interface.<br>
+**_script.js:_** JavaScript file to fetch and display the joke from the Dad Joke API.<br>
+**_logo.png:_** Icon file for your extension.<br>
 
 **1. manifest.json**<br>
 The manifest.json file is the blueprint of your Chrome extension. It provides essential metadata and permissions required for your extension to function properly.<br>
